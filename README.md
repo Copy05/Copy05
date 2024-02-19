@@ -7,11 +7,12 @@ Skills:<br>
 I'm currently taking a **apprenticeship** as a **Systemadministrator**<br>
 
 **Some Popular Projects of mine:**<br>
+[InfinitCraft](https://github.com/Copy05/InfinitCraft)<br>
 [Isekai Or Reincarnation](https://github.com/Copy05/IsikaiOrReincarnation)<br>
-[Hconsole](https://github.com/Copy05/Hconsole)<br>
 [Lennox](https://github.com/Copy05/Lennox)
 
 **Owner of:**<br>
 [@Entertainmasters](https://entertainmasters.github.io)<br>
+[CopyMedia Entertainment](https://copymedia.github.io)<br>
 [@AgesoftOSS](https://agesoftoss.github.io)<br>
 [CopyArchive](https://entertainmasters.github.io](https://github.com/CopyArchive)https://github.com/CopyArchive)
