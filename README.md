@@ -15,4 +15,4 @@ I'm currently taking a **apprenticeship** as a **Systemadministrator**<br>
 [@Entertainmasters](https://entertainmasters.github.io)<br>
 [CopyMedia Entertainment](https://copymedia.github.io)<br>
 [@AgesoftOSS](https://agesoftoss.github.io)<br>
-[CopyArchive](https://entertainmasters.github.io](https://github.com/CopyArchive)https://github.com/CopyArchive)
+[CopyArchive](https://github.com/CopyArchive)
