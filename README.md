@@ -8,14 +8,15 @@ I build and develop open-source software (and occasionally develop games) and to
 I'm currently taking a **apprenticeship** as a **Systemadministrator**<br>
 
 ### Some Popular Projects of mine
-[InfinitCraft](https://github.com/Copy05/InfinitCraft)<br>
-[Isekai Or Reincarnation](https://github.com/Copy05/IsikaiOrReincarnation)<br>
-[Lennox](https://github.com/Copy05/Lennox)
+- [CopyrightArmor](https://github.com/Copy05/CopyrightArmor)
+- [InfinitCraft](https://github.com/Copy05/InfinitCraft)
+- [Isekai Or Reincarnation](https://github.com/Copy05/IsikaiOrReincarnation)
+- [Lennox](https://github.com/Copy05/Lennox)
 
 ### I own:
-- 🎥 [Entertainmasters](https://entertainmasters.github.io)<br>
-- 🎥 [CopyMedia Entertainment](https://copymedia.github.io)<br>
-- ‍💻 [AgesoftOSS](https://agesoftoss.github.io)<br>
+- 🎥 [Entertainmasters](https://entertainmasters.github.io)
+- 🎥 [CopyMedia Entertainment](https://copymedia.github.io)
+- ‍💻 [AgesoftOSS](https://agesoftoss.github.io)
 
 
 All abounded and archived projects can be found at: [CopyArchive](https://github.com/CopyArchive)
