@@ -2,8 +2,10 @@
 
 I build and develop open-source software (and occasionally develop games) and tools with the goal of achieving independence from big corporations.
 ### Skills:
-- C/C++, Java, Javascript, C# & Python
-- Web-Development, MYSQL, Linux & Git
+- Development:
+  - C/C++, Java, Javascript, C# & Python
+- IT Skills:
+  - Web-Development, MYSQL, Linux & Git
 
 I'm currently taking a **apprenticeship** as a **Systemadministrator**<br>
 
@@ -14,9 +16,10 @@ I'm currently taking a **apprenticeship** as a **Systemadministrator**<br>
 - [Lennox](https://github.com/Copy05/Lennox)
 
 ### I own:
+- 📈 [CopyWealth](https://copy05.github.io/)
 - 🎥 [Entertainmasters](https://entertainmasters.github.io)
 - 🎥 [CopyMedia Entertainment](https://copymedia.github.io)
 - ‍💻 [AgesoftOSS](https://agesoftoss.github.io)
 
 
-All abounded and archived projects can be found at: [CopyArchive](https://github.com/CopyArchive)
+All abounded and archived projects can be found at: [📚 CopyArchive](https://github.com/CopyArchive)
