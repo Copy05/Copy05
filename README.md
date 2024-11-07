@@ -1,15 +1,16 @@
 <h2><b>Hello</b></h2>
 
-I build and develop open-source software (and occasionally develop games) and tools with the goal of achieving independence from big corporations.
+I build and develop open-source software (and occasionally develop games) and tools with the goal of achieving independence from big corporations. I love everything what creativity involves. (Drawing, Designing, Web Design, Video Editing, Content Creation)
 ### Skills:
 - Development:
   - C/C++, Java, Javascript, C# & Python
 - IT Skills:
   - Web-Development, MYSQL, Linux & Git
 
-I'm currently taking a **apprenticeship** as a **Systemadministrator**<br>
+I'm currently taking a **apprenticeship** as a **Systemadministrator**.<br>
 
 ### Some Popular Projects of mine
+- [EduElite](https://github.com/Copy05/EduElite)
 - [CopyrightArmor](https://github.com/Copy05/CopyrightArmor)
 - [InfinitCraft](https://github.com/Copy05/InfinitCraft)
 - [Isekai Or Reincarnation](https://github.com/Copy05/IsikaiOrReincarnation)
