@@ -23,3 +23,5 @@ I'm currently taking a **apprenticeship** as a **Systemadministrator**.<br>
 
 
 All abounded and archived projects can be found at: [📚 CopyArchive](https://github.com/CopyArchive)
+
+[![](https://visitcount.itsvg.in/api?id=Copy05&label=Impressions&color=6&icon=3&pretty=false)](https://visitcount.itsvg.in)
