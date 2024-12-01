@@ -11,7 +11,6 @@ I build and develop open-source software (and occasionally develop games) and to
 I'm currently taking a **apprenticeship** as a **Systemadministrator**.<br>
 
 ### Some Popular Projects of mine
-- [EduElite](https://github.com/Copy05/EduElite)
 - [CopyrightArmor](https://github.com/Copy05/CopyrightArmor)
 - [Lennox](https://github.com/Copy05/Lennox)
 
