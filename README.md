@@ -17,7 +17,7 @@ I'm currently taking a **apprenticeship** as a **Systemadministrator**.<br>
 
 ### I own:
 - 📈 [CopyWealth](https://copy05.github.io/)
-- 🎥 [Entertainmasters](https://entertainmasters.github.io)
+- 🎥 [Entertainmasters](https://entertainmasters.com)
 - 🎥 [CopyMedia Entertainment](https://copymedia.github.io)
 - ‍💻 [AgesoftOSS](https://agesoftoss.github.io)
 
